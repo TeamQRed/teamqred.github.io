@@ -1,16 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to Team 'Q'rED
+### Are you still in the 'Q'ueue?
+We are a team of enthusiasts, geeks, thinkers and above all determined people aiming to work and try and bring about a change in the society.
+This is the official website for the team QrED, where you can check out our work and our team.  
 
-You can use the [editor on GitHub](https://github.com/TeamQRed/teamqred.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What exactly is 'Q'rED?
+QrED is a project which aims at reducing the extensive, never ending, blood boiling, CNG refilling station queues. Yeah, that was serious exaggeration. But, seriously we aim at reducing those long queues at these stations, by guiding our users to stations that are less crowded and in effect saving both money, time and resources.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### AIMING TO SAVE 7200000 wasted minutes
