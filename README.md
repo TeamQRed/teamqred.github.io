@@ -1,33 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to Team 'Q'rED
 
-You can use the [editor on GitHub](https://github.com/TeamQRed/teamqred.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Are you still in the 'Q'ueue?
+We are a team of enthusiasts, geeks, thinkers and above all determined people aiming to work and try and bring about a change in the society.
+This is the official website for the team QrED, where you can check out our work and our team.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What exactly is 'Q'rED?
+QrED is a project which aims at reducing the extensive, never ending, blood boiling, CNG refilling station queues. Yeah, that was serious exaggeration. But, seriously we aim at reducing those long queues at these stations, by guiding our users to stations that are less crowded and in effect saving both money, time and resources.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### AIMING TO SAVE 7200000 wasted minutes
